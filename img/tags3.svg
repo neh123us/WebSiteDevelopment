@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 320" enable-background="new 0 0 600 320" xml:space="preserve">
+<g>
+	<path fill="#FAF8DA" stroke="#FFC122" stroke-width="1.911" stroke-miterlimit="10" d="M556.3,275.3H318.4c-2.8,0-5-2.2-5-5v-41.5
+		c0-2.8,2.2-5,5-5h237.9c2.8,0,5,2.2,5,5v41.5C561.3,273.1,559.1,275.3,556.3,275.3z"/>
+	<path fill="#FAF8DA" stroke="#FFC122" stroke-width="1.911" stroke-miterlimit="10" d="M349.4,85.2H99.6c-2.8,0-5-2.2-5-5V38.6
+		c0-2.8,2.2-5,5-5h249.9c2.8,0,5,2.2,5,5v41.5C354.4,82.9,352.2,85.2,349.4,85.2z"/>
+	<rect x="26.4" y="137" fill="none" width="551" height="20.5"/>
+	<text transform="matrix(1 0 0 1 26.3877 153.0116)"><tspan x="0" y="0" fill="#A2A242" font-family="'DroidSansMono'" font-size="21.021">&lt;p&gt;</tspan><tspan x="37.8" y="0" fill="#205D76" font-family="'DroidSansMono'" font-size="21.021">This is the content for a paragraph.</tspan><tspan x="492" y="0" fill="#A2A242" font-family="'DroidSansMono'" font-size="21.021">&lt;/p&gt;</tspan></text>
+	<path opacity="0.53" fill="#62D4D4" d="M64.7,125.7c-10.9-10.9-28.5-10.9-39.4,0s-10.9,28.5,0,39.4c10,10,25.8,10.8,36.8,2.3
+		l7.6,7.6v4.9l24.6,24.6l9.8-9.8l-24.6-24.6h-4.9l-7.6-7.6C75.5,151.6,74.8,135.8,64.7,125.7z M30.2,160.2c-8.2-8.2-8.2-21.4,0-29.5
+		c8.2-8.2,21.4-8.2,29.5,0c8.2,8.2,8.2,21.4,0,29.5C51.6,168.4,38.4,168.4,30.2,160.2z"/>
+	<path opacity="0.53" fill="#62D4D4" d="M520.4,175.8c16,13.5,40,11.5,53.6-4.6c13.5-16,11.5-40-4.6-53.6
+		c-14.8-12.5-36.4-11.7-50.2,1.2l-11.1-9.4l-0.6-6.7L471,72.1l-12.2,14.5l36.3,30.6l6.7-0.6l11.2,9.4
+		C502.7,141.9,505.5,163.3,520.4,175.8z M563.2,124.9c12,10.1,13.6,28.1,3.4,40.2c-10.1,12-28.1,13.6-40.2,3.4
+		c-12-10.1-13.6-28.1-3.4-40.2C533.2,116.3,551.2,114.8,563.2,124.9z"/>
+	<line fill="none" stroke="#FFC122" stroke-width="1.911" stroke-miterlimit="10" x1="63.8" y1="124.8" x2="94.6" y2="73.1"/>
+	<rect x="319.4" y="238.6" fill="none" width="235.7" height="47.8"/>
+	<text transform="matrix(1 0 0 1 319.417 256.0047)" opacity="0.53" fill="#EA6E2F" font-family="'OpenSans'" font-size="22.932">Closing paragraph tag</text>
+	<g>
+		<rect x="98.4" y="48.2" fill="none" width="296.2" height="47.8"/>
+		<text transform="matrix(1 0 0 1 98.373 65.6693)" opacity="0.53" fill="#EA6E2F" font-family="'OpenSans'" font-size="22.932">Opening paragraph tag</text>
+	</g>
+	<line fill="none" stroke="#FFC122" stroke-width="1.911" stroke-miterlimit="10" x1="485.2" y1="223.8" x2="516" y2="172.1"/>
+</g>
+</svg>
