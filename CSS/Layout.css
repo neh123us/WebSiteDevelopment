@@ -1,0 +1,38 @@
+header  {
+    text-align: center;
+}
+main{
+    width: 600px;
+    margin: auto;
+    display: flex;
+}
+section { 
+    display: flex;
+    margin: 50px auto; 
+    width: 100%; 
+
+}
+
+section img {
+    height : 200px;
+    vertical-align:  middle;
+    width: 200px;
+    order : 1
+}
+
+section div{
+    margin-left: 3em;
+    order : 2;
+}
+
+section ul{
+    padding-left: 15px; 
+}
+
+section ul li{
+    margin-bottom: 10px; 
+}
+footer{
+    padding: 2px;
+    text-align: center;
+}
