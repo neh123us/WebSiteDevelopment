@@ -1,0 +1,34 @@
+html {
+    color: #222;
+}
+body {
+    background-color: #FAF8DA;
+}
+footer {
+    background-color: #FFC122;
+}
+
+footer p {
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+section ul {
+    color: #FFC122; /* Changes list’s bullet point color */
+}
+section a {
+    color: #EA6E2F;
+
+}
+section h2 {
+    color: #205D76;
+}
+
+section {
+    border-bottom:  solid 1px #FFC122;
+    box-shadow:  5px 5px 10px #FFC122;
+}
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
